@@ -1,0 +1,8 @@
+{
+    "user": "mailfortestimap@gmail.com",
+    "password": "AsdZxc098",
+    "host": "imap.gmail.com",
+    "port": 993,
+    "tls": true,
+    "tlsOptions": { "rejectUnauthorized": false }
+}
