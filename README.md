@@ -10,7 +10,7 @@ Starting
 * install dependencies and run script
 
 ```javascript
-cd app && npm instal 
+cd app && npm install 
 node app.js
 ```
 
@@ -20,4 +20,4 @@ node app.js
 localhost:3000
 ```
 
-The configuration file for the test box attached. Script has not been tested on a large volume of letters.
+The configuration file (setting.json) for the test mail box attached. Script has not been tested on a large volume of letters.
